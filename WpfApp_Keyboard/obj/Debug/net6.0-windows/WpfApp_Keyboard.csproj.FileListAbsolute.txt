@@ -1,0 +1,126 @@
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.AssemblyReference.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.lref
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\refint\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.exe
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.deps.json
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.runtimeconfig.json
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.g.resources
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfoInputs.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfo.cs
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.genruntimeconfig.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\ref\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.AssemblyReference.cache
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\App.g.cs
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.cache
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\refint\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.exe
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.deps.json
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.runtimeconfig.json
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.lref
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.g.resources
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfoInputs.cache
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfo.cs
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.CoreCompileInputs.cache
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.genruntimeconfig.cache
+D:\Downloads\WpfApp_Keyboard недоделал 3 последнее\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\ref\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.exe
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.deps.json
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.runtimeconfig.json
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.AssemblyReference.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.lref
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.g.resources
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfoInputs.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfo.cs
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\refint\WpfApp_Keyboard.dll
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.genruntimeconfig.cache
+C:\Users\315-03\source\repos\WpfApp_Keyboard недоделаное 7\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\ref\WpfApp_Keyboard.dll
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.exe
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.deps.json
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.runtimeconfig.json
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.AssemblyReference.cache
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.cache
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.lref
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.g.resources
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfoInputs.cache
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfo.cs
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\refint\WpfApp_Keyboard.dll
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.genruntimeconfig.cache
+C:\Users\310-05\Downloads\WpfApp_Keyboard недоделал 12 осталось сравнить texblocks\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\ref\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.exe
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.deps.json
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.runtimeconfig.json
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.AssemblyReference.cache
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\App.g.cs
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.cache
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.lref
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.g.resources
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfoInputs.cache
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfo.cs
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.CoreCompileInputs.cache
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\refint\WpfApp_Keyboard.dll
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.genruntimeconfig.cache
+D:\Downloads\WpfApp_Keyboard недоделал 14\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\ref\WpfApp_Keyboard.dll
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.exe
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.deps.json
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.runtimeconfig.json
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\bin\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.AssemblyReference.cache
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.cache
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard_MarkupCompile.lref
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.g.resources
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfoInputs.cache
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.AssemblyInfo.cs
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.dll
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\refint\WpfApp_Keyboard.dll
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.pdb
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\WpfApp_Keyboard.genruntimeconfig.cache
+C:\Users\dima\Downloads\WpfApp_Keyboard\WpfApp_Keyboard\obj\Debug\net6.0-windows\ref\WpfApp_Keyboard.dll

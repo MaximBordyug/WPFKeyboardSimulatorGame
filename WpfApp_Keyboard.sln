@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Keyboard", "WpfApp_Keyboard\WpfApp_Keyboard.csproj", "{BC4C677D-E53E-4677-A9A6-F62A6A7F7104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4C677D-E53E-4677-A9A6-F62A6A7F7104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4C677D-E53E-4677-A9A6-F62A6A7F7104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4C677D-E53E-4677-A9A6-F62A6A7F7104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4C677D-E53E-4677-A9A6-F62A6A7F7104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9645C01A-8750-417F-8EC3-02E1A2DBD88E}
+	EndGlobalSection
+EndGlobal
